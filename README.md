@@ -1,3 +1,16 @@
-# first-project
+# Math Calculator - My First Python Project
+
 This is my first project ever :) Well i am new to Python and i learnt some basic programming so i thought to make one project. I wil be very thankful if you give a check on my project. This project was made almost a year ago and i released it in Sololearn first and then here.
 This a calculator project :)
+This simple math calculator that can:
+
+- Add, Subtract, Multiply, Divide
+- Handle invalid input
+- Prevent division by zero
+- Repeat calculations multiple times
+
+## How to Run
+
+1. Clone this repository:
+```bash
+git clone https://github.com/yourusername/math-calculator.git
