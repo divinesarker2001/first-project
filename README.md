@@ -13,4 +13,4 @@ This simple math calculator that can:
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/math-calculator.git
+git clone https://github.com/divinesarker2001/math-calculator.git
