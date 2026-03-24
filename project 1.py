@@ -56,7 +56,7 @@ def mathtest():
         again = input("Do you want to calculate again? (y/n): ").lower()
         if again != 'y':
             print('-'*40)
-            print("Thanks for using my calculator,, have a nice day!")
+            print("Thanks for using my calculator, have a nice day!")
             print('-'*40)
             break  #exit outer loop
         
