@@ -14,3 +14,8 @@ This simple math calculator that can:
 1. Clone this repository:
 ```bash
 git clone https://github.com/divinesarker2001/math-calculator.git
+
+2. Run the python file (source.py)
+```bash
+python (put your file location here)
+Or execute it using a code editor like VS Code or Pycharm
